@@ -1,0 +1,7 @@
+streamlit
+opencv-python
+numpy
+stqdm
+deep-sort-realtime
+ultralytics
+mysql-connector-python
